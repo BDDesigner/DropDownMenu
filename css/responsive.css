@@ -1,0 +1,29 @@
+/* Xl Device:1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    
+    
+    
+}
+/* Lg Device:992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    
+    .main-menu ul li {
+	    margin-left: 20px;
+    }
+    .slider-inner h2 {
+	    font-size: 40px;
+    }
+    .features-area {
+        margin-top: 0;
+        padding-top: 100px;
+    }
+    .service-wrapper {
+        margin-bottom: 30px;
+    }
+}
+/* Md Device:768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    
+    
+    
+}
